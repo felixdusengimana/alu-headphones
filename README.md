@@ -11,4 +11,4 @@
 * The site was developed with semantic HTML, which helps screen readers and other assistive technologies to interpret the content correctly.
 
 ## Author
-* Loraine Irakoze
+* Felix Dusengimana
